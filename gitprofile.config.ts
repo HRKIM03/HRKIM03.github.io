@@ -87,7 +87,7 @@ const CONFIG = {
     {
       company: '성균관대학교',
       position: '학생',
-      from: '2023',
+      from: '2024',
       to: 'Present',
       companyLink: 'https://www.skku.edu',
     },
@@ -97,7 +97,7 @@ const CONFIG = {
     {
       institution: '성균관대학교',
       degree: '학사',
-      from: '2023',
+      from: '2024',
       to: 'Present',
     },
   ],
